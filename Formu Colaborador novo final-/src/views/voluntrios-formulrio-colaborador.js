@@ -8,7 +8,7 @@ const VoluntriosFormulrioColaborador = (props) => {
   return (
     <div className="voluntrios-formulrio-colaborador-container">
       <Helmet>
-        <title>exported project</title>
+        <title>projeto</title>
       </Helmet>
       <div className="voluntrios-formulrio-colaborador-voluntrios-formulrio-colaborador">
         <div className="voluntrios-formulrio-colaborador-group3">
